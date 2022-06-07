@@ -1,3 +1,3 @@
  # Strogonoff de frango 
- * modo de preparo * 
- _ junta tudo _
+ ## **modo de preparo** 
+ _junta tudo_
